@@ -1,0 +1,8 @@
+
+POST https://localhost:5001/workflows/blog-posts HTTP/1.1
+Content-Type: application/json
+
+{
+    "Title": "Creating Workflow Driven Apps with Elsa",
+    "Body": "Low-code applications are the future."
+}
